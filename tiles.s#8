@@ -11347,9 +11347,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="215.9" y="25.4" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U1" gate="1" pin="(CLKO/ICP3/INT7)PE7"/>
-<wire x1="139.7" y1="0" x2="149.86" y2="0" width="0.1524" layer="91"/>
-<label x="149.86" y="0" size="1.778" layer="95"/>
+<pinref part="U1" gate="1" pin="(OC1B/PCINT6)PB6"/>
+<wire x1="139.7" y1="66.04" x2="152.4" y2="66.04" width="0.1524" layer="91"/>
+<label x="149.86" y="66.04" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SK" class="0">
@@ -11359,9 +11359,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="215.9" y="22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U1" gate="1" pin="(T3/INT6)PE6"/>
-<wire x1="139.7" y1="-2.54" x2="149.86" y2="-2.54" width="0.1524" layer="91"/>
-<label x="149.86" y="-2.54" size="1.778" layer="95"/>
+<pinref part="U1" gate="1" pin="(OC1A/PCINT5)PB5"/>
+<wire x1="139.7" y1="63.5" x2="152.4" y2="63.5" width="0.1524" layer="91"/>
+<label x="149.86" y="63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

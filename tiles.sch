@@ -9866,7 +9866,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="IC1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="78*" device="TV" package3d_urn="urn:adsk.eagle:package:16417/2" technology="05"/>
 <part name="D1" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="1N4004" device="" package3d_urn="urn:adsk.eagle:package:43336/1" override_package3d_urn="urn:adsk.eagle:package:24466785/2" override_package_urn="urn:adsk.eagle:footprint:43094/1"/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-RADIAL-2.5MM-25V-20%" override_package3d_urn="urn:adsk.eagle:package:24470844/2" override_package_urn="urn:adsk.eagle:footprint:24470845/1" value="100uF"/>
-<part name="5V-INPUT" library="dp_devices.v6" deviceset="CON_TERMINAL_BLOCK_02" device="-5MM" override_package3d_urn="urn:adsk.eagle:package:24467215/2" override_package_urn="urn:adsk.eagle:footprint:24467216/1"/>
+<part name="5V-INPUT" library="dp_devices.v6" deviceset="CON_TERMINAL_BLOCK_02" device="-5MM" override_package3d_urn="urn:adsk.eagle:package:24467215/3" override_package_urn="urn:adsk.eagle:footprint:24467216/1"/>
 <part name="RESET-BUTTON" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-12MM" override_package3d_urn="urn:adsk.eagle:package:24469516/2" override_package_urn="urn:adsk.eagle:footprint:24469518/1"/>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0204/7" package3d_urn="urn:adsk.eagle:package:23498/2"/>
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0204/7" package3d_urn="urn:adsk.eagle:package:23498/2"/>

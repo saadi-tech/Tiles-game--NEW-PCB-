@@ -9928,7 +9928,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R22" library="SparkFun-Resistors" deviceset="RESISTOR" device="1206" override_package3d_urn="urn:adsk.eagle:package:24466996/2" override_package_urn="urn:adsk.eagle:footprint:24466997/1" value=" ">
 <attribute name="SPICEPREFIX" value="R"/>
 </part>
-<part name="DEBUG-TERMINAL1" library="SparkFun-Connectors" deviceset="CONN_04" device="PTH" override_package3d_urn="urn:adsk.eagle:package:24469679/2" override_package_urn="urn:adsk.eagle:footprint:24469680/1"/>
+<part name="7-SEGMENT" library="SparkFun-Connectors" deviceset="CONN_04" device="PTH" override_package3d_urn="urn:adsk.eagle:package:24469679/2" override_package_urn="urn:adsk.eagle:footprint:24469680/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -10285,7 +10285,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="NAME" x="-182.88" y="79.756" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
 <attribute name="VALUE" x="-182.88" y="82.804" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="DEBUG-TERMINAL1" gate="J1" x="200.66" y="25.4" smashed="yes">
+<instance part="7-SEGMENT" gate="J1" x="200.66" y="25.4" smashed="yes">
 <attribute name="VALUE" x="195.58" y="18.034" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="195.58" y="33.528" size="1.778" layer="95" font="vector"/>
 </instance>
@@ -10554,7 +10554,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="-172.72" y="55.88" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DEBUG-TERMINAL1" gate="J1" pin="3"/>
+<pinref part="7-SEGMENT" gate="J1" pin="3"/>
 <wire x1="205.74" y1="27.94" x2="215.9" y2="27.94" width="0.1524" layer="91"/>
 <label x="215.9" y="27.94" size="1.778" layer="95"/>
 </segment>
@@ -10724,7 +10724,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <label x="-93.98" y="40.64" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DEBUG-TERMINAL1" gate="J1" pin="4"/>
+<pinref part="7-SEGMENT" gate="J1" pin="4"/>
 <wire x1="205.74" y1="30.48" x2="215.9" y2="30.48" width="0.1524" layer="91"/>
 <label x="215.9" y="30.48" size="1.778" layer="95"/>
 </segment>
@@ -11341,7 +11341,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="DIO" class="0">
 <segment>
-<pinref part="DEBUG-TERMINAL1" gate="J1" pin="2"/>
+<pinref part="7-SEGMENT" gate="J1" pin="2"/>
 <wire x1="205.74" y1="25.4" x2="210.82" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="25.4" x2="210.82" y2="25.4" width="0.1524" layer="91"/>
 <label x="215.9" y="25.4" size="1.778" layer="95"/>
@@ -11354,7 +11354,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="SK" class="0">
 <segment>
-<pinref part="DEBUG-TERMINAL1" gate="J1" pin="1"/>
+<pinref part="7-SEGMENT" gate="J1" pin="1"/>
 <wire x1="205.74" y1="22.86" x2="215.9" y2="22.86" width="0.1524" layer="91"/>
 <label x="215.9" y="22.86" size="1.778" layer="95"/>
 </segment>

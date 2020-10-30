@@ -179,6 +179,14 @@
 <text x="24.13" y="43.18" size="1.778" layer="21">SK</text>
 <text x="24.13" y="33.02" size="1.778" layer="21">VCC</text>
 <text x="24.13" y="36.83" size="1.778" layer="21">GND</text>
+<wire x1="109.22" y1="86.36" x2="96.52" y2="73.66" width="0.254" layer="21"/>
+<wire x1="96.52" y1="73.66" x2="96.52" y2="72.39" width="0.254" layer="21"/>
+<wire x1="96.52" y1="72.39" x2="130.81" y2="72.39" width="0.254" layer="21"/>
+<wire x1="130.81" y1="72.39" x2="143.51" y2="85.09" width="0.254" layer="21"/>
+<wire x1="143.51" y1="85.09" x2="143.51" y2="86.36" width="0.254" layer="21"/>
+<wire x1="143.51" y1="86.36" x2="109.22" y2="86.36" width="0.254" layer="21"/>
+<text x="106.68" y="81.28" size="2.2098" layer="21">Tiles game circuit board</text>
+<text x="110.49" y="77.47" size="1.27" layer="21">Designed by: Saad W.</text>
 </plain>
 <libraries>
 <library name="dp_devices.v6">

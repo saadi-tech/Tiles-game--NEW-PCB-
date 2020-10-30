@@ -11252,26 +11252,26 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </net>
 <net name="TXD" class="0">
 <segment>
-<pinref part="DEBUG-TERMINAL" gate="J1" pin="3"/>
-<wire x1="187.96" y1="-10.16" x2="193.04" y2="-10.16" width="0.1524" layer="91"/>
-<label x="193.04" y="-10.16" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="U1" gate="1" pin="(TXD0)PE1"/>
 <wire x1="139.7" y1="-15.24" x2="147.32" y2="-15.24" width="0.1524" layer="91"/>
 <label x="147.32" y="-15.24" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="RXD" class="0">
 <segment>
 <pinref part="DEBUG-TERMINAL" gate="J1" pin="2"/>
 <wire x1="187.96" y1="-12.7" x2="193.04" y2="-12.7" width="0.1524" layer="91"/>
 <label x="193.04" y="-12.7" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="RXD" class="0">
 <segment>
 <pinref part="U1" gate="1" pin="(RXD0/PCIN8)PE0"/>
 <wire x1="139.7" y1="-17.78" x2="147.32" y2="-17.78" width="0.1524" layer="91"/>
 <label x="147.32" y="-17.78" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="DEBUG-TERMINAL" gate="J1" pin="3"/>
+<wire x1="187.96" y1="-10.16" x2="193.04" y2="-10.16" width="0.1524" layer="91"/>
+<label x="193.04" y="-10.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$12" class="0">

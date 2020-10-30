@@ -9896,7 +9896,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="YELLOW-LED-2" library="dp_devices.v6" deviceset="CON_TERMINAL_BLOCK_02" device="-5MM" override_package3d_urn="urn:adsk.eagle:package:24467215/2" override_package_urn="urn:adsk.eagle:footprint:24467216/1"/>
 <part name="GREEN-LED" library="dp_devices.v6" deviceset="CON_TERMINAL_BLOCK_02" device="-5MM" override_package3d_urn="urn:adsk.eagle:package:24467215/2" override_package_urn="urn:adsk.eagle:footprint:24467216/1"/>
 <part name="RED-1" library="adafruit" deviceset="LED" device="5MM" override_package3d_urn="urn:adsk.eagle:package:24469427/2" override_package_urn="urn:adsk.eagle:footprint:24469429/1"/>
-<part name="YELLOW-1" library="adafruit" deviceset="LED" device="5MM" override_package3d_urn="urn:adsk.eagle:package:24469454/2" override_package_urn="urn:adsk.eagle:footprint:24469455/1"/>
+<part name="YELLOW-1" library="adafruit" deviceset="LED" device="5MM" override_package3d_urn="urn:adsk.eagle:package:24469454/3" override_package_urn="urn:adsk.eagle:footprint:24469455/1"/>
 <part name="GREEN" library="adafruit" deviceset="LED" device="5MM" override_package3d_urn="urn:adsk.eagle:package:24469463/2" override_package_urn="urn:adsk.eagle:footprint:24469464/1"/>
 <part name="R15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0204/7" package3d_urn="urn:adsk.eagle:package:23498/2"/>
 <part name="RED-2" library="adafruit" deviceset="LED" device="5MM" override_package3d_urn="urn:adsk.eagle:package:24469427/2" override_package_urn="urn:adsk.eagle:footprint:24469429/1"/>
